@@ -31,6 +31,11 @@ public class NumberRange {
     public static void main(String[] args) {
         List<Integer> numbers = List.of(1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13);
         System.out.println(format(numbers));
+
     }
 }
 
+public static void main(String[] args) {
+    List<Integer> numbers = List.of(1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 13);
+    System.out.println(format(numbers));
+}
